@@ -29,7 +29,7 @@ SECRET_KEY = "django-insecure-%+@4d=v34b8k6)fz9$2f#d&9^##yc25@ys#aavu1zuq!46np#$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["blog-app-pq7u-9w0085erk-sajin-prsads-projects.vercel.app"]
+ALLOWED_HOSTS = ["blog-app-pq7u-9w0085erk-sajin-prsads-projects.vercel.app", "backend-ekz1.onrender.com"]
 
 
 # Application definition
